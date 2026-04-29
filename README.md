@@ -256,7 +256,7 @@ El servidor devuelve `409 CONFLICT` porque el campo `usuario` tiene restricción
 ##  Autor
 
 **Jorge Kalas**  
-IFTS N° 29 — Tecnicatura Superior en Desarrollo de Software 
+IFTS N° 29 — Tecnicatura Superior en Desarrollo de Software - 
 Programación Sobre Redes — Primer Semestre 2026  
 Docente: Germán Ríos
 
