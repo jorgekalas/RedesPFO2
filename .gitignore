@@ -1,0 +1,63 @@
+# ========================
+# Entorno virtual
+# ========================
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# ========================
+# Base de datos
+# ========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ========================
+# Variables de entorno
+# ========================
+.env
+.env.local
+.env.*.local
+
+# ========================
+# IDEs y editores
+# ========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ========================
+# Sistema operativo
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+
+# ========================
+# Distribución / build
+# ========================
+dist/
+build/
+*.egg-info/
